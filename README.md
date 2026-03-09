@@ -1,4 +1,4 @@
-# Desafio Votação --- Frontend
+# Desafio Votação - Frontend
 
 Frontend da aplicação de votação desenvolvido com **React**.
 Este projeto consome a API do backend responsável por gerenciar pautas,
@@ -7,7 +7,7 @@ sessões de votação e votos.
 
 ------------------------------------------------------------------------
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 -   React
 -   Next.js
@@ -18,7 +18,7 @@ sessões de votação e votos.
 
 ------------------------------------------------------------------------
 
-## ⚙️ Instalação
+## Instalação
 
 Clone o repositório:
 
@@ -40,7 +40,7 @@ npm install
 
 ------------------------------------------------------------------------
 
-## ▶️ Executando o projeto
+## Executando o projeto
 
 Inicie o servidor de desenvolvimento:
 
@@ -54,7 +54,7 @@ http://localhost:3000
 
 ------------------------------------------------------------------------
 
-## 🔗 Integração com Backend
+## Integração com Backend
 
 O frontend consome os endpoints disponibilizados pelo backend:
 
@@ -65,7 +65,7 @@ aplicação funcionem corretamente.
 
 ------------------------------------------------------------------------
 
-## 🧪 Funcionalidades
+## Funcionalidades
 
 A aplicação permite:
 
@@ -76,7 +76,7 @@ A aplicação permite:
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Autor
+## Autor
 
 Projeto desenvolvido por **José Buss**.
 
